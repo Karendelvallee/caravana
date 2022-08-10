@@ -1,0 +1,16 @@
+body {
+
+    height: 800px;
+    background-color: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(39, 39, 39, 0.1) 0.01%, rgba(0, 0, 0, 0.13) 13.02%, #000000 100%);
+    background-image: url("img/Group3.png");
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+
+  .container {
+
+    padding: 10%;
+  }

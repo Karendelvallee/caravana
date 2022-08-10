@@ -1,0 +1,45 @@
+body {
+
+    height: 800px;
+    background-color: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(39, 39, 39, 0.1) 0.01%, rgba(0, 0, 0, 0.13) 13.02%, #000000 100%);
+    background-image: url("img/Group3.png");
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }
+
+  .caravanainicio{
+    position: absolute;
+    width: 806px;
+    height: 73px;
+    left: -30%;
+    top: -70%;
+  }
+
+  .bienvenida {
+    position: absolute;
+    width: 500px;
+    height: 201px;
+    left: 500px;
+    top: 370px;
+  }
+
+.targ {
+    position: absolute;
+    width:70%;
+    height: 603px;
+    left: 14%;
+    top: 750px;
+
+}
+
+.targ2 {
+
+    position: absolute;
+    width:70%;
+    height: 603px;
+    left: 14%;
+    top: 1310px;
+}
