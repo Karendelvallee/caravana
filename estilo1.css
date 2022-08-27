@@ -20,10 +20,9 @@ body {
 
   .bienvenida {
     position: absolute;
-    width: 500px;
-    height: 201px;
-    left: 500px;
-    top: 370px;
+    top: 25%;
+    padding-left: 20%;
+    padding-right: 20%;
   }
 
 .targ {
